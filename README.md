@@ -7,4 +7,9 @@ Proyecto para convertir archivos Excel a PDF (cliente para subir archivos)
 - https://stackoverflow.com/questions/39037049/how-to-upload-a-file-and-json-data-in-postman
 - https://www.bezkoder.com/spring-boot-file-upload/
 - https://spring.io/guides/gs/uploading-files/
+- https://engineering.getmidas.com/writing-a-logging-aspect-with-spring-aop-ed83e2f4228
+
+
+revisar esto
+https://stackoverflow.com/questions/31060017/spring-dependency-postconstruct
 
